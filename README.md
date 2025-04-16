@@ -1,4 +1,3 @@
-# E-Commerce Product Sales Analysis (Power BI)
 
 # 🛍️ E-Commerce Product Sales Analysis – Power BI Dashboard
 
@@ -7,8 +6,8 @@ This Power BI project analyzes product sales performance for an e-commerce busin
 ---
 
 ## 📊 Dashboard Overview
+![image](https://github.com/user-attachments/assets/c525830d-ec49-4367-bb0e-b8550a2e7b38)
 
-![Dashboard Screenshot](image.png)
 
 ---
 
@@ -61,4 +60,4 @@ This Power BI project analyzes product sales performance for an e-commerce busin
 
 Have suggestions or want to collaborate? Feel free to fork the repo or raise an issue!
 
-![image](https://github.com/user-attachments/assets/c525830d-ec49-4367-bb0e-b8550a2e7b38)
+
